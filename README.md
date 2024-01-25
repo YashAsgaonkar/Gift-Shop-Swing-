@@ -1,8 +1,7 @@
 # Sparkle & Suprise
-## Sparkle & Suprise Gift Shop made using Java Swings in NetBeans and connected with database by MySQL workbench 
-## Gift-a-Wish: A Java Swings Gift Website with MySQL Integration
+##  Gift Shop made using Java Swings in NetBeans and connected with database by MySQL workbench 
 
-**Gift-a-Wish** is a Java Swing application that allows users to:
+**Sparkle & Suprise** is a Java Swing application that allows users to:
 
 * **Browse and purchase gifts:** Explore a diverse selection of gifts categorized.
 * **Deliver gifts:** Specify recipient addresses and choose delivery options for a seamless gifting experience.
